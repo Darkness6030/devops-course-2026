@@ -1,0 +1,6 @@
+---
+app_image: "ghcr.io/darkness6030/devops-ci-app"
+app_tag: "39519e8ed47438802576f2f186e58261f25da36e"
+app_container_name: "devops-ci-app"
+app_host_port: 5000
+app_internal_port: 5000
